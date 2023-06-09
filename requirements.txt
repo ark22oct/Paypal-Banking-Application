@@ -1,0 +1,6 @@
+altair
+pandas
+streamlit
+streamlit-authenticator==0.1.5 
+mysql-connector-python
+
